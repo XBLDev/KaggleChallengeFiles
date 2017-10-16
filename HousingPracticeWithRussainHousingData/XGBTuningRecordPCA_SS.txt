@@ -1,0 +1,12 @@
+Best so far: 
+
+0.4729566
+2000
+{'subsample': 0.5, 'gamma': 0.0, 'eta': 0.01, 'alpha': 1, 'max_depth': 3, 'colsample_bytree': 0.5}
+2000
+
+Last tested set of parameters and BoostRound: 
+
+2000
+{'subsample': 0.5, 'gamma': 0.0, 'eta': 0.01, 'alpha': 1, 'max_depth': 3, 'colsample_bytree': 0.5}
+2000

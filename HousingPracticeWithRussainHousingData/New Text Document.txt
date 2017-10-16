@@ -1,0 +1,11 @@
+'full_sq', 'yearmonth', 'cafe_count_5000_price_high',
+                       'full_life_kitch', 'cafe_notNA_price_2000', 'detention_facility_km',
+                       'cafe_count_3000_price_1500', 'num_room', 'full_sq_times_state', 'cafe_count_5000_price_2500',
+                       'cafe_count_1500', 'yearweek', 'metro_min_avto', 'metro_km_avto', 'full_life', 'bulvar_ring_km',
+                       'cafe_count_5000_allPriceRange_sum', 'shopping_centers_raion', 'floor', 'kitch_sq', 'sport_objects_raion',
+                       'indust_part', 'cafe_count_2000_price_2500', 'additional_education_km', 'cafe_count_2000', 'product_type_Investment',
+                       'preschool_km', 'sport_count_3000', 'swim_pool_km', 'cafe_count_3000', 'extra_sq', 'cafe_count_2000_price_1000',
+                       'public_healthcare_km', 'cafe_count_2000_price_1500', 'cafe_notNA_price_3000', 'cafe_count_5000_price_1500', 'sport_count_2000',
+                       'cafe_count_3000_price_2500', 'full_all', 'thermal_power_plant_km', 'theater_km',
+                       'cafe_count_1000_price_1500', 'cafe_count_3000_price_1000', 'life_sq', 'max_floor', 'material', 
+			'build_year', 'state', ''

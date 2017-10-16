@@ -1,0 +1,11 @@
+Best so far: 
+
+8.3244492
+{'gamma': 0.0, 'min_child_weight': 5, 'subsample': 0.5, 'eta': 0.01, 'colsample_bytree': 0.5, 'objective': 'reg:linear', 'max_depth': 3}
+588
+Possible boot round transformed:710
+
+Last tested set of parameters and BoostRound: 
+
+{'gamma': 0.0, 'min_child_weight': 5, 'subsample': 0.5, 'eta': 0.01, 'colsample_bytree': 0.5, 'objective': 'reg:linear', 'max_depth': 3}
+588

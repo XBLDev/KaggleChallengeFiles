@@ -1,0 +1,525 @@
+################# max_depth: 4###############################
+
+currentParams = {"max_depth":4, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.5,
+                 "subsample": 0.5, 'objective': 'reg:linear',
+                 'min_child_weight':20}
+ERROR:  0.4533128
+BEST ROUND:  1807
+
+currentParams = {"max_depth":4, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.5,
+                 "subsample": 0.5, 'objective': 'reg:linear',
+                 'min_child_weight':50}
+ERROR:  0.4531348
+BEST ROUND:  1975
+
+currentParams = {"max_depth":4, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.5,
+                 "subsample": 0.6, 'objective': 'reg:linear',
+                 'min_child_weight':50}
+ERROR:  0.45267
+BEST ROUND:  2197
+
+currentParams = {"max_depth":4, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.6,
+                 "subsample": 0.6, 'objective': 'reg:linear',
+                 'min_child_weight':50}
+ERROR:  0.4529104
+BEST ROUND:  1895
+
+currentParams = {"max_depth":4, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.7,
+                 "subsample": 0.6, 'objective': 'reg:linear',
+                 'min_child_weight':50}
+ERROR:  0.4527656
+BEST ROUND:  2306
+
+currentParams = {"max_depth":4, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.6, 'objective': 'reg:linear',
+                 'min_child_weight':50}
+ERROR:  0.4528112
+BEST ROUND:  1904
+
+currentParams = {"max_depth":4, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.5,
+                 "subsample": 0.65, 'objective': 'reg:linear',
+                 'min_child_weight':50}
+ERROR:  0.4527708
+BEST ROUND:  2040
+
+currentParams = {"max_depth":4, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.6,
+                 "subsample": 0.65, 'objective': 'reg:linear',
+                 'min_child_weight':50}
+ERROR:  0.4526732
+BEST ROUND:  1966
+
+
+currentParams = {"max_depth":4, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.7,
+                 "subsample": 0.65, 'objective': 'reg:linear',
+                 'min_child_weight':50}
+ERROR:  0.4526566
+BEST ROUND:  2106
+
+currentParams = {"max_depth":4, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.7,
+                 "subsample": 0.7, 'objective': 'reg:linear',
+                 'min_child_weight':50}
+ERROR:  0.4525756
+BEST ROUND:  1989
+
+currentParams = {"max_depth":4, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.7,
+                 "subsample": 0.75, 'objective': 'reg:linear',
+                 'min_child_weight':50}
+ERROR:  0.452471
+BEST ROUND:  2009
+
+currentParams = {"max_depth":4, "gamma": 0.1 ,
+                 "eta":0.02, "colsample_bytree":0.7,
+                 "subsample": 0.75, 'objective': 'reg:linear',
+                 'min_child_weight':50}
+ERROR:  0.4525056
+BEST ROUND:  1075
+
+currentParams = {"max_depth":4, "gamma": 0.1 ,
+                 "eta":0.05, "colsample_bytree":0.7,
+                 "subsample": 0.75, 'objective': 'reg:linear',
+                 'min_child_weight':50}
+ERROR:  0.4536662
+BEST ROUND:  405
+
+
+
+currentParams = {"max_depth":4, "gamma": 0.5 ,
+                 "eta":0.01, "colsample_bytree":0.7,
+                 "subsample": 0.75, 'objective': 'reg:linear',
+                 'min_child_weight':50}
+ERROR:  0.452447
+BEST ROUND:  2095
+
+currentParams = {"max_depth":4, "gamma": 0.6 ,
+                 "eta":0.01, "colsample_bytree":0.7,
+                 "subsample": 0.75, 'objective': 'reg:linear',
+                 'min_child_weight':50}
+ERROR:  0.452542
+BEST ROUND:  1832
+
+currentParams = {"max_depth":4, "gamma": 1 ,
+                 "eta":0.01, "colsample_bytree":0.7,
+                 "subsample": 0.75, 'objective': 'reg:linear',
+                 'min_child_weight':50}
+ERROR:  0.4525306
+BEST ROUND:  1829
+
+currentParams = {"max_depth":4, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.7,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':50}
+ERROR:  0.4525868
+BEST ROUND:  1832
+
+currentParams = {"max_depth":4, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.7,
+                 "subsample": 0.75, 'objective': 'reg:linear',
+                 'min_child_weight':60}
+ERROR:  0.4525224
+BEST ROUND:  2009
+
+currentParams = {"max_depth":4, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.7,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':50}
+ERROR:  0.4525868
+BEST ROUND:  1832
+
+currentParams = {"max_depth":4, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.5,
+                 "subsample": 0.5, 'objective': 'reg:linear',
+                 'min_child_weight':75}
+ERROR:  0.453399
+BEST ROUND:  1841
+
+currentParams = {"max_depth":4, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.5,
+                 "subsample": 0.5, 'objective': 'reg:linear',
+                 'min_child_weight':60}
+ERROR:  0.453396
+BEST ROUND:  1842
+
+
+
+
+################# max_depth: 5###############################
+
+currentParams = {"max_depth":5, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.5,
+                 "subsample": 0.7, 'objective': 'reg:linear',
+                 'min_child_weight':75}
+ERROR:  0.4525748
+BEST ROUND:  1647
+
+currentParams = {"max_depth":5, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.5,
+                 "subsample": 0.7, 'objective': 'reg:linear',
+                 'min_child_weight':100}
+ERROR:  0.4525406
+BEST ROUND:  1666
+
+currentParams = {"max_depth":5, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.6,
+                 "subsample": 0.7, 'objective': 'reg:linear',
+                 'min_child_weight':100}
+ERROR:  0.4525412
+BEST ROUND:  1702
+
+currentParams = {"max_depth":5, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.7,
+                 "subsample": 0.7, 'objective': 'reg:linear',
+                 'min_child_weight':100}
+ERROR:  0.4524944
+BEST ROUND:  1556
+
+currentParams = {"max_depth":5, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.7, 'objective': 'reg:linear',
+                 'min_child_weight':100}
+ERROR:  0.4523906
+BEST ROUND:  1556
+
+
+currentParams = {"max_depth":5, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':100}
+ERROR:  0.4520596
+BEST ROUND:  1615
+
+currentParams = {"max_depth":5, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':75}
+ERROR:  0.4520122
+BEST ROUND:  1590
+
+currentParams = {"max_depth":5, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':75}
+
+
+currentParams = {"max_depth":5, "gamma": 0.3 ,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':75}
+ERROR:  0.452046
+BEST ROUND:  1590
+
+currentParams = {"max_depth":5, "gamma": 0.5 ,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':75}
+ERROR:  0.4520498
+BEST ROUND:  1588
+
+currentParams = {"max_depth":5, "gamma": 1 ,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':75}
+ERROR:  0.4521474
+BEST ROUND:  1632
+
+currentParams = {"max_depth":5, "gamma": 0.5 ,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':75}
+
+
+currentParams = {"max_depth":5, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.9, 'objective': 'reg:linear',
+                 'min_child_weight':75}
+ERROR:  0.4521274
+BEST ROUND:  1542
+
+
+currentParams = {"max_depth":5, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':120}
+ERROR:  0.452157
+BEST ROUND:  1604
+
+
+currentParams = {"max_depth":5, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.5,
+                 "subsample": 0.7, 'objective': 'reg:linear',
+                 'min_child_weight':120}
+ERROR:  0.4527044
+BEST ROUND:  1694
+
+currentParams = {"max_depth":5, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.5,
+                 "subsample": 0.7, 'objective': 'reg:linear',
+                 'min_child_weight':150}
+ERROR:  0.452889
+BEST ROUND:  1556
+
+currentParams = {"max_depth":5, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.5,
+                 "subsample": 0.7, 'objective': 'reg:linear',
+                 'min_child_weight':170}
+ERROR:  0.4528478
+BEST ROUND:  1672
+
+currentParams = {"max_depth":5, "gamma": 0.1 ,
+                 "eta":0.01, "colsample_bytree":0.5,
+                 "subsample": 0.7, 'objective': 'reg:linear',
+                 'min_child_weight':200}
+ERROR:  0.4530138
+BEST ROUND:  1566
+
+################# max_depth: 6###############################
+currentParams = {"max_depth":6, "gamma": 0.1,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':75}
+ERROR:  0.451782
+BEST ROUND:  1262
+
+currentParams = {"max_depth":6, "gamma": 0.1,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':80}
+ERROR:  0.4520038
+BEST ROUND:  1137
+
+################# max_depth: 7###############################
+currentParams = {"max_depth":7, "gamma": 0.1,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':75}
+ERROR:  0.4517804
+BEST ROUND:  984
+
+currentParams = {"max_depth":7, "gamma": 0.2,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':75}
+ERROR:  0.451637
+BEST ROUND:  1063
+
+currentParams = {"max_depth":7, "gamma": 0.2,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':80}
+ERROR:  0.4516186
+BEST ROUND:  1058
+
+currentParams = {"max_depth":7, "gamma": 0.3,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':75}
+ERROR:  0.4516762
+BEST ROUND:  1017
+
+currentParams = {"max_depth":7, "gamma": 0.4,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':75}
+ERROR:  0.451697
+BEST ROUND:  993
+
+################# max_depth: 8###############################
+currentParams = {"max_depth":8, "gamma": 0.1,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':80}
+ERROR:  0.4515226
+BEST ROUND:  1006
+
+currentParams = {"max_depth":8, "gamma": 0.2,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':80}
+ERROR:  0.4514936
+BEST ROUND:  1012
+
+currentParams = {"max_depth":8, "gamma": 0.2,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':85}
+ERROR:  0.4514848
+BEST ROUND:  967
+
+currentParams = {"max_depth":8, "gamma": 0.2,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':90}
+ERROR:  0.451645
+BEST ROUND:  952
+
+currentParams = {"max_depth":8, "gamma": 0.3,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':80}
+
+ERROR:  0.4515262
+BEST ROUND:  1013
+
+################# max_depth: 9###############################
+currentParams = {"max_depth":9, "gamma": 0.1,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':80}
+ERROR:  0.451516
+BEST ROUND:  928
+
+currentParams = {"max_depth":9, "gamma": 0.1,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':90}
+ERROR:  0.4514902
+BEST ROUND:  989
+
+currentParams = {"max_depth":9, "gamma": 0.1,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':90}
+
+currentParams = {"max_depth":9, "gamma": 0.1,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':100}
+ERROR:  0.4514954
+BEST ROUND:  941
+
+currentParams = {"max_depth":9, "gamma": 0.2,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':80}
+ERROR:  0.451547
+BEST ROUND:  945
+
+################# max_depth: 10###############################
+currentParams = {"max_depth":10, "gamma": 0.1,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':90}
+ERROR:  0.4515346
+BEST ROUND:  800
+
+currentParams = {"max_depth":10, "gamma": 0.1,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':90}
+WITHOUT LOG1P
+ERROR:  2170670.7
+BEST ROUND:  1436
+
+currentParams = {"max_depth":10, "gamma": 0.2,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':90}
+ERROR:  2170670.7
+BEST ROUND:  1436
+
+earlyStopRounds = 50
+currentParams = {"max_depth":10, "gamma": 0.2,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.9, 'objective': 'reg:linear',
+                 'min_child_weight':90}
+ERROR:  2170088.35
+BEST ROUND:  1557
+
+earlyStopRounds = 50
+currentParams = {"max_depth":10, "gamma": 0.2,
+                 "eta":0.01, "colsample_bytree":0.9,
+                 "subsample": 0.9, 'objective': 'reg:linear',
+                 'min_child_weight':90}
+ERROR:  2169751.2
+BEST ROUND:  1388
+
+
+earlyStopRounds = 50
+currentParams = {"max_depth":10, "gamma": 0.3,
+                 "eta":0.01, "colsample_bytree":0.9,
+                 "subsample": 0.9, 'objective': 'reg:linear',
+                 'min_child_weight':90}
+SEED = 0
+ERROR:  2169751.2
+BEST ROUND:  1388
+
+earlyStopRounds = 150
+currentParams = {"max_depth":10, "gamma": 5.0,
+                 "eta":0.02, "colsample_bytree":0.8,
+                 "subsample": 0.85, 'objective': 'reg:linear',
+                 'min_child_weight':300}
+
+SEED = 0, WITH THE MACRO COLUMNS
+ERROR:  95330.6828128
+BEST ROUND:  12220
+
+
+################# max_depth: 12###############################
+currentParams = {"max_depth":12, "gamma": 25,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':90}
+ERROR: 2170447
+BEST ROUND:  1373
+
+################# max_depth: 15###############################
+currentParams = {"max_depth":15, "gamma": 25,
+                 "eta":0.01, "colsample_bytree":0.8,
+                 "subsample": 0.8, 'objective': 'reg:linear',
+                 'min_child_weight':90}
+ERROR:  2171980.95
+BEST ROUND:  1189
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+smallest: 0.4723388
+EngineeredFeatures = ['life_and_kitchen', 'full_sq_times_state', 'life_and_kitchen_times_state', 'extra_sq',
+                     'num_room_times_state', "full_minus_life_and_kitchen",  
+                      'age_of_building', "preschool_seat_available_rate",
+                      ]
+
+OriginalFeatures_Non_Category = ['full_sq', 'life_sq', 'kitch_sq', 'num_room', 'university_top_20_raion',
+                                 'cafe_count_5000_price_1000', 'cafe_count_5000_price_1500', 'cafe_count_5000_price_2500',
+                                 'sport_count_5000']
+
+sub_area_cols = [col for col in all_data.columns if 'sub_area' in col]##<------it drops the rmse, but not much
+product_type_cols = [col for col in all_data.columns if 'product_type' in col]##<------it drops the rmse by 0.002, better than sub_area_cols
+radiation_raion_cols = [col for col in all_data.columns if 'radiation_raion' in col]##<------not helping, seems to get worse with it
+
+want to compare to: 0.4723388
